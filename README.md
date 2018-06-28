@@ -1,5 +1,7 @@
 # GraphQL
 
+Resources for learning GraphQL.
+
 ## Playgrounds
 
 | Name | Description | Type |

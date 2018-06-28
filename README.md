@@ -1,6 +1,6 @@
 # GraphQL
 
-## Playgrounds:
+## Playgrounds
 
 | Name | Description | Type |
 |---|---|---|

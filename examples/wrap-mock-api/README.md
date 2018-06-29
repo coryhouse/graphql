@@ -12,7 +12,7 @@ This project shows how to wrap an existing REST API with GraphQL.
 
 ## Quick Start
 
-1.  Install dependencies.
+1.  Install dependencies:
 
 ```
 npm install

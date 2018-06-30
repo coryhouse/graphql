@@ -4,7 +4,7 @@ Resources for learning GraphQL.
 
 ## Playgrounds
 
-| Name | Description | Playground |
+| Name | Description | Playground Type|
 |---|---|---|
 |[GitHub](https://developer.github.com/v4/explorer/)|GitHub's Production API|GraphiQL|
 |[Snowtooth](http://snowtooth.herokuapp.com/playground)|Ski run data|Playground|

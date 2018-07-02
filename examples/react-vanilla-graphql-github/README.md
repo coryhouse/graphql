@@ -1,6 +1,6 @@
 # Vanilla GraphQL with React
 
-A example of plain GraphQL with React. This project calls the [GitHub GraphQL API](https://developer.github.com/v4/).
+This project calls the [GitHub GraphQL API](https://developer.github.com/v4/) using plain GraphQL with React. No libraries required.
 
 ## Quick Start
 

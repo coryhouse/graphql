@@ -4,12 +4,12 @@ This project calls the [GitHub GraphQL API](https://developer.github.com/v4/) us
 
 ## Quick Start
 
-1.  Check out the [GitHub GraphQL API on GraphiQL](https://developer.github.com/v4/explorer/) to get comfortable with the data structures.
 1.  [Create a GitHub Personal Access Token](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/). For scopes/permissions check: admin:org, repo, user, notifications.
 1.  Create an .env file in the root of this project and save your GitHub Personal Access Token inside like this: `REACT_APP_GITHUB_TOKEN=YourPersonalAccessTokenHere`
 1.  `npm install`
 1.  `npm start`
 1.  Open localhost:3000 in your browser.
+1.  Check out the [GitHub GraphQL API on GraphiQL](https://developer.github.com/v4/explorer/) to get comfortable with the data structures this app is querying.
 
 ## Credits
 

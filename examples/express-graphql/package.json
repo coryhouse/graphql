@@ -1,18 +1,14 @@
 {
   "name": "graphql-demo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Eric Baer",
   "license": "MIT",
   "dependencies": {
-    "cors": "^2.8.3",
-    "express": "^4.14.1",
-    "express-graphql": "^0.6.3",
-    "graphql": "^0.10.3",
-    "nodemon": "^1.11.0"
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "nodemon": "^1.17.5"
   }
 }

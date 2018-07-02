@@ -62,3 +62,6 @@ typings/
 
 # generated db.json
 database/*
+.DS_Store
+node_modules
+.env

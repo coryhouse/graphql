@@ -10,6 +10,7 @@ function post(query) {
 }
 
 // Plain fetch example.
+// To use this, need to switch lines in resolveIssuesQuery below as noted in the comment.
 // function post(query) {
 //   return fetch("https://api.github.com/graphql", {
 //     method: "POST",
@@ -18,7 +19,7 @@ function post(query) {
 //       authorization: `bearer ${process.env.REACT_APP_GITHUB_TOKEN}`
 //     },
 //     body: JSON.stringify(query)
-//   })
+//   }).then(response => response.json());
 // }
 
 // This query accepts variables so we don't have to do cheezy
@@ -92,7 +93,7 @@ const addStarToRepository = repositoryId => {
 
 const resolveAddStarMutation = mutationResult => state => {
   const { viewerHasStarred } = mutationResult.data.data.addStar.starrable;
-  const { totalCount } = this.state.organization.repository.stargazers;
+  const { totalCount } = state.organization.repository.stargazers;
 
   return {
     ...state,
@@ -114,7 +115,8 @@ const resolveAddStarMutation = mutationResult => state => {
 // Using currying so setState is returned as a func
 // that closes over the queryResult.
 const resolveIssuesQuery = (queryResult, cursor) => state => {
-  debugger;
+  // Use this line instead if using fetch
+  // const { data, errors } = queryResult;
   const { data, errors } = queryResult.data;
 
   if (!cursor) {

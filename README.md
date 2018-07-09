@@ -2,7 +2,9 @@
 
 Resources for learning GraphQL.
 
-For a full list, check out [Awesome GraphQL](). Below are a few of my favorites.
+[KCDC 2018 Slides](https://www.dropbox.com/s/6ud4se9d7kaxcsx/Why%20GraphQL.pptx?dl=0_)
+
+For a huge list of GraphQL resources, check out [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql). Below are a few of my favorites.
 
 ## Playgrounds
 

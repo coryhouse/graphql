@@ -1,19 +1,48 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Fragment } from "react";
+import { gql } from "apollo-boost";
+import { Query } from "react-apollo";
+import "./App.css";
 
-class App extends Component {
+const GET_DOGS = gql`
+  {
+    dogs {
+      id
+      breed
+      displayImage
+    }
+  }
+`;
+
+class App extends React.Component {
+  onDogSelected = event => {};
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+      <Fragment>
+        <h1>React Apollo Example</h1>
+        <p>
+          This app uses React-Apollo to call an example GraphQL endpoint that
+          provides Dog data.
         </p>
-      </div>
+        <Query query={GET_DOGS}>
+          {({ loading, error, data }) => {
+            if (loading) return <div>Loading...</div>;
+            if (error) return `Error: ${error.message}`;
+            return (
+              <form>
+                <label>Dog Breed</label>{" "}
+                <select name="dog" onChange={this.onDogSelected}>
+                  {data.dogs.map(dog => (
+                    <option key={dog.id} value={dog.breed}>
+                      {dog.breed}
+                    </option>
+                  ))}
+                </select>
+              </form>
+            );
+          }}
+        </Query>
+      </Fragment>
     );
   }
 }

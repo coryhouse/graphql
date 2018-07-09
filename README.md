@@ -2,6 +2,10 @@
 
 Resources for learning GraphQL.
 
+# Examples
+
+This repository contains a number of example applications in the examples folder. See the respective README.md for each for details.
+
 [KCDC 2018 Slides](https://www.dropbox.com/s/6ud4se9d7kaxcsx/Why%20GraphQL.pptx?dl=0_)
 
 For a huge list of GraphQL resources, check out [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql). 

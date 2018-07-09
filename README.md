@@ -8,7 +8,7 @@ This repository contains a number of example applications in the examples folder
 
 ## Slides
 
-[KCDC 2018 Slides](https://www.dropbox.com/s/6ud4se9d7kaxcsx/Why%20GraphQL.pptx?dl=0_)
+[Here are my slides from Kansas City Developer Conference 2018](https://www.dropbox.com/s/6ud4se9d7kaxcsx/Why%20GraphQL.pptx?dl=0_). Check out the final slides for a long list of excellent blog posts.
 
 ## Playgrounds
 

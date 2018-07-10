@@ -1,7 +1,5 @@
 # Wrap Your REST API with GraphQL
 
-## What's this about?
-
 This project shows how to wrap an existing REST API with GraphQL.
 
 ## How's this work?

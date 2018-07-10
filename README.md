@@ -4,6 +4,13 @@ Resources for learning GraphQL.
 
 ## Examples
 
+| Name                                                                                                                   | Description                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [express-graphql](https://github.com/coryhouse/graphql/tree/master/examples/express-graphql)                           | A simple GraphQL Server using Express.                                                                                               |
+| [react-apollo-example](https://github.com/coryhouse/graphql/tree/master/examples/react-apollo-example)                 | Example of using React and Apollo together to query GraphQL                                                                          |
+| [react-vanilla-graphql-github](https://github.com/coryhouse/graphql/tree/master/examples/react-vanilla-graphql-github) | This project calls the [GitHub GraphQL API](https://developer.github.com/v4/) using plain GraphQL with React. No libraries required. |
+| [wrap-rest-api](https://github.com/coryhouse/graphql/tree/master/examples/wrap-rest-api)                               | Shows how you can use GraphQL to wrap an existing REST API.                                                                          |
+
 This repository contains a number of example applications in the examples folder. See the respective README.md for each for details.
 
 ## Slides
@@ -14,16 +21,15 @@ This repository contains a number of example applications in the examples folder
 
 Here are a few of my favorite GraphQL playgrounds.
 
-| Name | Description | Playground Type|
-|---|---|---|
-|[GitHub](https://developer.github.com/v4/explorer/)|GitHub's Production API|GraphiQL|
-|[Snowtooth](http://snowtooth.herokuapp.com/playground)|Ski run data|Playground|
-|[Star Wars API](https://graphql.org/swapi-graphql/)|Star Wars Data API|GraphiQL|
-|[City Distances](https://launchpad.graphql.com/lk3qk3zq7q)|Shows how connections work | Launchpad|
+| Name                                                       | Description                | Playground Type |
+| ---------------------------------------------------------- | -------------------------- | --------------- |
+| [GitHub](https://developer.github.com/v4/explorer/)        | GitHub's Production API    | GraphiQL        |
+| [Snowtooth](http://snowtooth.herokuapp.com/playground)     | Ski run data               | Playground      |
+| [Star Wars API](https://graphql.org/swapi-graphql/)        | Star Wars Data API         | GraphiQL        |
+| [City Distances](https://launchpad.graphql.com/lk3qk3zq7q) | Shows how connections work | Launchpad       |
 
 [Many more public GraphQL APIs here](https://github.com/APIs-guru/graphql-apis).
 
 ## More Resources
 
-For a huge list of GraphQL resources, check out [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql). 
-
+For a huge list of GraphQL resources, check out [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql).

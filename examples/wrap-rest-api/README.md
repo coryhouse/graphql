@@ -1,4 +1,4 @@
-# Wrap Your API with GraphQL
+# Wrap Your REST API with GraphQL
 
 ## What's this about?
 

@@ -4,14 +4,14 @@ Resources for learning GraphQL.
 
 ## Examples
 
+This repo contains the following example applications in /examples:
+
 | Name                                                                                                                   | Description                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | [express-graphql](https://github.com/coryhouse/graphql/tree/master/examples/express-graphql)                           | A simple GraphQL Server using Express.                                                                                               |
 | [react-apollo-example](https://github.com/coryhouse/graphql/tree/master/examples/react-apollo-example)                 | Example of using React and Apollo together to query GraphQL                                                                          |
 | [react-vanilla-graphql-github](https://github.com/coryhouse/graphql/tree/master/examples/react-vanilla-graphql-github) | This project calls the [GitHub GraphQL API](https://developer.github.com/v4/) using plain GraphQL with React. No libraries required. |
 | [wrap-rest-api](https://github.com/coryhouse/graphql/tree/master/examples/wrap-rest-api)                               | Shows how you can use GraphQL to wrap an existing REST API.                                                                          |
-
-This repository contains a number of example applications in the examples folder. See the respective README.md for each for details.
 
 ## Slides
 

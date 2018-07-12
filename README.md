@@ -33,3 +33,7 @@ Here are a few of my favorite GraphQL playgrounds.
 ## More Resources
 
 For a huge list of GraphQL resources, check out [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql).
+
+## Would Your Team Benefit from Training/Consulting?
+
+Check out [http://reactjsconsulting.com](http://reactjsconsulting.com)

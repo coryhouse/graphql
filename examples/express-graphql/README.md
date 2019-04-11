@@ -1,6 +1,6 @@
 # Express with GraphQL
 
-Example of a simple GraphQL Server using Express.
+Simple GraphQL Server using Express.
 
 ## Quick Start
 

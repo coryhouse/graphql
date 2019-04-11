@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "prestart:api-server": "node scripts/generate-db.js",
-    "start:api-server": "json-server ./database/db.json",
-    "start:graphql-server": "nodemon src/index.js",
-    "start": "npm-run-all --parallel start:api-server start:graphql-server"
+    "prestart:rest": "node scripts/generate-db.js",
+    "start:rest": "json-server ./database/db.json",
+    "start:graphql": "nodemon src/index.js",
+    "start": "npm-run-all --parallel start:rest start:graphql"
   },
   "keywords": [],
   "author": "Cory House <cory@reactjsconsulting.com>",

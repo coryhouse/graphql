@@ -5,10 +5,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "cors": "^2.8.4",
-    "express": "^4.16.3",
-    "express-graphql": "^0.6.12",
-    "graphql": "^0.13.2",
-    "nodemon": "^1.17.5"
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.1",
+    "nodemon": "^1.18.11"
   }
 }

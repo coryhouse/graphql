@@ -27,6 +27,7 @@ Here are a few of my favorite GraphQL playgrounds.
 | [Snowtooth](http://snowtooth.herokuapp.com/playground)     | Ski run data               | Playground      |
 | [Star Wars API](https://graphql.org/swapi-graphql/)        | Star Wars Data API         | GraphiQL        |
 | [City Distances](https://launchpad.graphql.com/lk3qk3zq7q) | Shows how connections work | Launchpad       |
+| [Dog GraphQL](https://dog-graphql-api.glitch.me/graphql)   | Dog data                   | Playground      |
 
 [Many more public GraphQL APIs here](https://github.com/APIs-guru/graphql-apis).
 

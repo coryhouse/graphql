@@ -15,7 +15,7 @@ This repo contains the following example applications in /examples:
 
 ## Slides
 
-[Here are my slides from Kansas City Developer Conference 2018](https://www.dropbox.com/s/6ud4se9d7kaxcsx/Why%20GraphQL.pptx?dl=0_). Check out the final slides for a long list of excellent blog posts.
+[Here are the slides](https://www.dropbox.com/s/izm8njmis6l1sk0/The%207%20Pillar%20Developer%20-%20Codestock%202019.pptx?dl=0).
 
 ## Playgrounds
 

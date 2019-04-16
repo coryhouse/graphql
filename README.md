@@ -14,9 +14,9 @@ This repo contains the following example applications in /examples:
 | [wrap-rest-api](https://github.com/coryhouse/graphql/tree/master/examples/wrap-rest-api)                               | Use GraphQL to wrap an existing REST API.                                                                              |
 
 
-## Realistic Example Apps
-
-https://github.com/staylor/pitchfork-scraper
+## Large Example Apps
+- [Pupstagram](https://codesandbox.io/s/8819w85jn9)
+- [Pitchfork Scraper](https://github.com/staylor/pitchfork-scraper)
 
 ## Slides
 

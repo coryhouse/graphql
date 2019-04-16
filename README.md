@@ -13,6 +13,11 @@ This repo contains the following example applications in /examples:
 | [react-vanilla-graphql-github](https://github.com/coryhouse/graphql/tree/master/examples/react-vanilla-graphql-github) | Call the [GitHub GraphQL API](https://developer.github.com/v4/) using plain GraphQL with React. No libraries required. |
 | [wrap-rest-api](https://github.com/coryhouse/graphql/tree/master/examples/wrap-rest-api)                               | Use GraphQL to wrap an existing REST API.                                                                              |
 
+
+## Realistic Example Apps
+
+https://github.com/staylor/pitchfork-scraper
+
 ## Slides
 
 [Here are the slides](https://www.dropbox.com/s/izm8njmis6l1sk0/The%207%20Pillar%20Developer%20-%20Codestock%202019.pptx?dl=0).

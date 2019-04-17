@@ -16,7 +16,7 @@ This repo contains the following example applications in /examples:
 
 ## Large Example Apps
 - [Pupstagram](https://codesandbox.io/s/8819w85jn9)
-- [Pitchfork Scraper](https://github.com/staylor/pitchfork-scraper)
+- [Pitchfork](http://pitchfork.highforthis.com) - [Code](https://github.com/staylor/pitchfork-scraper)
 
 ## Slides
 

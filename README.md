@@ -44,4 +44,4 @@ Also, check out [GraphQL Links](https://www.aligneddev.net/blog/2017/graphql/).
 
 ## Would Your Team Benefit from Training/Consulting?
 
-Visit [http://reactjsconsulting.com](http://reactjsconsulting.com).
+Visit [reactjsconsulting.com](http://reactjsconsulting.com).

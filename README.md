@@ -12,6 +12,7 @@ This repo contains the following example applications in /examples:
 | [react-apollo-example](https://github.com/coryhouse/graphql/tree/master/examples/react-apollo-example)                 | Use React with Apollo to query GraphQL.                                                                                |
 | [react-vanilla-graphql-github](https://github.com/coryhouse/graphql/tree/master/examples/react-vanilla-graphql-github) | Call the [GitHub GraphQL API](https://developer.github.com/v4/) using plain GraphQL with React. No libraries required. |
 | [wrap-rest-api](https://github.com/coryhouse/graphql/tree/master/examples/wrap-rest-api)                               | Use GraphQL to wrap an existing REST API.                                                                              |
+| [json-graphql-server-example](https://github.com/coryhouse/graphql/tree/master/examples/json-graphql-server)           | Run a local GraphQL server via a single JS file.                                                                       |
 
 ## Slides
 

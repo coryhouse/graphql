@@ -1,0 +1,15 @@
+{
+  "name": "json-graphql-server-example",
+  "version": "1.0.0",
+  "description": "Example of using json-graphql-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-graphql-server db.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cory House",
+  "license": "ISC",
+  "dependencies": {
+    "json-graphql-server": "^2.1.3"
+  }
+}

@@ -4,7 +4,7 @@ Resources for learning GraphQL.
 
 ## Examples
 
-This repo contains the following example applications in /examples:
+This repo contains the following examples in /examples:
 
 | Name                                                                                                                   | Description                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -14,8 +14,8 @@ This repo contains the following example applications in /examples:
 | [wrap-rest-api](https://github.com/coryhouse/graphql/tree/master/examples/wrap-rest-api)                               | Use GraphQL to wrap an existing REST API.                                                                              |
 | [json-graphql-server-example](https://github.com/coryhouse/graphql/tree/master/examples/json-graphql-server)           | Run a local GraphQL server via a single JS file.                                                                       |
 
-
 ## Large Example Apps
+
 - [Pupstagram](https://codesandbox.io/s/8819w85jn9)
 - [Pitchfork](http://pitchfork.highforthis.com) - [Code](https://github.com/staylor/pitchfork-scraper)
 

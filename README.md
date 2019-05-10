@@ -21,7 +21,7 @@ This repo contains the following examples in /examples:
 
 ## Slides
 
-[Here are the slides](https://www.dropbox.com/s/izm8njmis6l1sk0/The%207%20Pillar%20Developer%20-%20Codestock%202019.pptx?dl=0).
+[Here are the slides](https://www.dropbox.com/s/1a8a46dfhe8q0b2/Why%20GraphQL%20-%20Codestock%202019.pptx?dl=0).
 
 ## Playgrounds
 

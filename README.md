@@ -37,6 +37,13 @@ Here are a few of my favorite GraphQL playgrounds.
 
 [Many more public GraphQL APIs here](https://github.com/APIs-guru/graphql-apis).
 
+## Database Integrations
+
+GraphQL can work with any database, but here are some slick integrations for Postgres.
+
+- [Hasura](https://hasura.io/)
+- [Postgraphile](https://www.graphile.org/postgraphile/)
+
 ## More Resources
 
 For a huge list of GraphQL resources, check out [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql).
